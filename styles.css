@@ -784,13 +784,6 @@ nav .fa-solid {
   }
 }
 
-
-
-
-
-
-
-
 .hero-sect {
   width: 100%;
 }
@@ -2469,7 +2462,6 @@ nav .fa-solid {
   }
 }
 
-
 .tab {
   padding: 50px 80px 50px 80px;
   display: flex;
@@ -2481,7 +2473,6 @@ nav .fa-solid {
   gap: 0.5em;
   padding-top: 20px;
 }
-
 
 .tab h2 {
   font-size: 26px;
@@ -2504,8 +2495,7 @@ nav .fa-solid {
 
 .tab .img-text2 {
   display: flex;
-  border: 2px solid #16e685
-  ;
+  border: 2px solid #16e685;
   padding-top: 18px;
   padding-bottom: 22px;
   border-right: none;
@@ -2513,9 +2503,6 @@ nav .fa-solid {
   border-top: none;
   width: 500px;
   gap: 0.5em;
-
-
-
 }
 .tab .img-text3 {
   display: flex;
@@ -2527,7 +2514,6 @@ nav .fa-solid {
   border-top: none;
   width: 500px;
   gap: 0.5em;
-
 }
 .tab .img-text4 {
   display: flex;
@@ -2539,7 +2525,6 @@ nav .fa-solid {
   border-top: none;
   width: 500px;
   gap: 0.5em;
-
 }
 .tab .img-text5 {
   display: flex;
@@ -2551,7 +2536,6 @@ nav .fa-solid {
   border-top: none;
   width: 500px;
   gap: 0.5em;
-
 }
 
 .tab .tab-right {
@@ -2564,29 +2548,26 @@ nav .fa-solid {
   width: 560px;
 }
 
-@media (max-width:1300px) {
+@media (max-width: 1300px) {
   .tab {
     padding: 50px 50px 50px 50px;
     display: flex;
     justify-content: space-between;
   }
-  
 }
-@media (max-width:1220px) {
+@media (max-width: 1220px) {
   .tab {
     padding: 50px 50px 50px 50px;
     display: flex;
     justify-content: space-between;
   }
-  
-  
+
   .tab .img-text {
     display: flex;
     gap: 0.5em;
     padding-top: 20px;
   }
-  
-  
+
   .tab h2 {
     font-size: 20px;
     font-family: "Plus Jakarta Sans", sans-serif;
@@ -2605,7 +2586,7 @@ nav .fa-solid {
     border-left: none;
     border-top: none;
   }
-  
+
   .tab .img-text2 {
     display: flex;
     border: 2px solid #16e685;
@@ -2616,9 +2597,6 @@ nav .fa-solid {
     border-top: none;
     width: 400px;
     gap: 0.5em;
-  
-  
-  
   }
   .tab .img-text3 {
     display: flex;
@@ -2630,7 +2608,6 @@ nav .fa-solid {
     border-top: none;
     width: 400px;
     gap: 0.5em;
-  
   }
   .tab .img-text4 {
     display: flex;
@@ -2642,7 +2619,6 @@ nav .fa-solid {
     border-top: none;
     width: 400px;
     gap: 0.5em;
-  
   }
   .tab .img-text5 {
     display: flex;
@@ -2654,29 +2630,26 @@ nav .fa-solid {
     border-top: none;
     width: 400px;
     gap: 0.5em;
-  
   }
-  
+
   .tab .tab-right {
     padding: 10px;
     border: thin solid black;
     border-radius: 30px;
   }
-  
+
   .tab .tab-right img {
     width: 500px;
   }
-  
 }
 
-@media (max-width:1050px) {
+@media (max-width: 1050px) {
   .tab .tab-right img {
     width: 400px;
   }
-  
 }
 
-@media (max-width:950px) {
+@media (max-width: 950px) {
   .tab {
     padding: 50px 50px 50px 50px;
     display: flex;
@@ -2685,24 +2658,21 @@ nav .fa-solid {
     gap: 2em;
     align-items: center;
   }
-
 }
 
-@media (max-width:500px) {
+@media (max-width: 500px) {
   .tab {
     padding: 50px 20px 50px 20px;
     display: flex;
     justify-content: space-between;
   }
-  
-  
+
   .tab .img-text {
     display: flex;
     gap: 0.5em;
     padding-top: 20px;
   }
-  
-  
+
   .tab h2 {
     font-size: 20px;
     font-family: "Plus Jakarta Sans", sans-serif;
@@ -2721,7 +2691,7 @@ nav .fa-solid {
     border-left: none;
     border-top: none;
   }
-  
+
   .tab .img-text2 {
     display: flex;
     border: 2px solid #16e685;
@@ -2732,9 +2702,6 @@ nav .fa-solid {
     border-top: none;
     width: 300px;
     gap: 0.5em;
-  
-  
-  
   }
   .tab .img-text3 {
     display: flex;
@@ -2746,7 +2713,6 @@ nav .fa-solid {
     border-top: none;
     width: 300px;
     gap: 0.5em;
-  
   }
   .tab .img-text4 {
     display: flex;
@@ -2758,7 +2724,6 @@ nav .fa-solid {
     border-top: none;
     width: 300px;
     gap: 0.5em;
-  
   }
   .tab .img-text5 {
     display: flex;
@@ -2770,35 +2735,31 @@ nav .fa-solid {
     border-top: none;
     width: 300px;
     gap: 0.5em;
-  
   }
-  
+
   .tab .tab-right {
     padding: 10px;
     border: thin solid black;
     border-radius: 30px;
   }
-  
+
   .tab .tab-right img {
     width: 300px;
   }
-  
 }
-@media (max-width:350px) {
+@media (max-width: 350px) {
   .tab {
     padding: 50px 20px 50px 20px;
     display: flex;
     justify-content: space-between;
   }
-  
-  
+
   .tab .img-text {
     display: flex;
     gap: 0.5em;
     padding-top: 20px;
   }
-  
-  
+
   .tab h2 {
     font-size: 18px;
     font-family: "Plus Jakarta Sans", sans-serif;
@@ -2817,7 +2778,7 @@ nav .fa-solid {
     border-left: none;
     border-top: none;
   }
-  
+
   .tab .img-text2 {
     display: flex;
     border: 2px solid #16e685;
@@ -2828,9 +2789,6 @@ nav .fa-solid {
     border-top: none;
     width: 280px;
     gap: 0.5em;
-  
-  
-  
   }
   .tab .img-text3 {
     display: flex;
@@ -2842,7 +2800,6 @@ nav .fa-solid {
     border-top: none;
     width: 280px;
     gap: 0.5em;
-  
   }
   .tab .img-text4 {
     display: flex;
@@ -2854,7 +2811,6 @@ nav .fa-solid {
     border-top: none;
     width: 280px;
     gap: 0.5em;
-  
   }
   .tab .img-text5 {
     display: flex;
@@ -2866,24 +2822,18 @@ nav .fa-solid {
     border-top: none;
     width: 280px;
     gap: 0.5em;
-  
   }
-  
+
   .tab .tab-right {
     padding: 10px;
     border: thin solid black;
     border-radius: 30px;
   }
-  
+
   .tab .tab-right img {
     width: 260px;
   }
-  
 }
-
-
-
-
 
 .sect-six {
   padding: 50px 80px 50px 80px;
@@ -3240,7 +3190,7 @@ nav .fa-solid {
   }
 
   .sect-six {
-    padding: 30px 40px 30px 40px;
+    padding: 30px 30px 30px 30px;
     background-color: #fafbfc;
     display: flex;
     flex-direction: column;
@@ -3262,6 +3212,14 @@ nav .fa-solid {
 }
 
 @media (max-width: 424px) {
+  .sect-six {
+    padding: 30px 30px 30px 30px;
+    background-color: #fafbfc;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
   .sect-six-learn-more {
     font-size: 14px;
     color: #0b3558;
@@ -3330,12 +3288,94 @@ nav .fa-solid {
     padding: 12px 90px 12px 90px;
   }
 }
+
+@media (max-width: 400px) {
+  .sect-six-cards-wrapper {
+    margin-bottom: 40px;
+    display: grid;
+    grid-template-columns: 1fr;
+    align-items: center;
+    justify-content: space-between;
+    row-gap: 30px;
+    text-align: center;
+  }
+}
+
+@media (max-width: 390px) {
+  .sect-six-cards-wrapper {
+    margin-bottom: 40px;
+    display: grid;
+    grid-template-columns: 1fr;
+    align-items: center;
+    justify-content: space-between;
+    row-gap: 30px;
+    column-gap: 30px;
+    text-align: center;
+  }
+
+  .sect-six h2 {
+    font-size: 28px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    color: #0b3558;
+    width: 300px;
+    padding-bottom: 30px;
+    text-align: center;
+  }
+
+  .sect-six-cards h4 {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    color: #0b3558;
+    padding-bottom: 30px;
+    font-size: 30px;
+    font-weight: 800;
+    width: 100%;
+    height: auto;
+    text-wrap: nowrap;
+  }
+  .sect-six-cards a {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+    background-color: #0b3558;
+    border-radius: 8px;
+    padding: 12px 50px 12px 50px;
+  }
+
+  .billed {
+    display: flex;
+    gap: 1em;
+    margin-bottom: 30px;
+    text-wrap: nowrap;
+  }
+
+  .sect-six {
+    padding: 30px 40px 30px 40px;
+    background-color: #fafbfc;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .sect-six-cards {
+    padding: 0px 0px 40px 0px;
+    background-color: #fff;
+    border-radius: 14px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    text-wrap: nowrap;
+    box-shadow: 0px 11px 16px rgba(0, 0, 0, 0.123);
+  }
+}
+
 @media (max-width: 350px) {
   .sect-six-cards-wrapper {
     margin-bottom: 40px;
     display: grid;
     grid-template-columns: 1fr;
-    width: 200px;
     align-items: center;
     justify-content: space-between;
     row-gap: 30px;
@@ -4410,8 +4450,6 @@ footer .apps div {
   color: #3a5d7a;
   flex-wrap: wrap;
   /* text-wrap: nowrap; */
-  
-
 }
 
 .footer-bottom .left-div select {
@@ -4450,4 +4488,3 @@ footer .apps div {
 .footer-bottom .right-div a {
   color: #3a5d7a;
 }
-
